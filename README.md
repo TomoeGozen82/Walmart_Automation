@@ -156,7 +156,7 @@ Supported browsers:
 ### Run via Maven
 ```bash
 # Clone the repository
-git clone https://github.com/PavanPG42/Walmart_Automation.git
+git clone https://github.com/TomoeGozen82/Walmart_Automation.git
 
 # Navigate to project
 cd Walmart_Automation
@@ -249,4 +249,4 @@ test data management.
 
 ## Repository
 
-GitHub: https://github.com/PavanPG42/Walmart_Automation
+GitHub: https://github.com/TomoeGozen82/Walmart_Automation
